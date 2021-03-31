@@ -72,6 +72,13 @@
     text-align: center;
 }
 
+.mooz__header {
+    padding-top: 5px;
+    color: #F5F5F5;
+    text-align: center;
+    background-color: #1C1E20;
+}
+
 .main__chat_window {
     flex-grow: 1;
     overflow-y: auto;
