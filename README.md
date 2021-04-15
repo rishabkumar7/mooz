@@ -6,3 +6,7 @@ Zoom clone
 
 ## AWS Infrastructure:
 ![AWS Infrastructure](./img/AWS-Infra.svg)
+
+### Progress so far:
+Mooz v1:
+![Mooz V1](./img/MoozV1.gif)
