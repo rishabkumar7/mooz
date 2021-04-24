@@ -132,3 +132,9 @@ const setPlayVideo = () => {
   `
     document.querySelector('.main__video_button').innerHTML = html;
 }
+
+function close_window() {
+    if (confirm("Close Window?")) {
+        close();
+    }
+}
